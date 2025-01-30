@@ -1,18 +1,1 @@
-[
-  {
-    "quote": "This is an annotation.",
-    "uri": "http://127.0.0.1:8000/markdown/index.html",
-    "tags": [
-      "tag1",
-      "tag2"
-    ]
-  },
-  {
-    "quote": "This is an annotation.",
-    "uri": "http://127.0.0.1:8000/markdown/index.html",
-    "tags": [
-      "tag1",
-      "tag2"
-    ]
-  }
-]
+[]
