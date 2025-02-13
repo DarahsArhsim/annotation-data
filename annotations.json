@@ -1,4 +1,1 @@
-{
-  "webpage":[],
-  "emailIDs": []
-}
+{"webpage":[{"webpageURL":"http://127.0.0.1:8000/samples/index.html","annotations":[{"uniqueID":"annotation-1739442074718","email":"ssss","text":"area","originalHTML":"<p>This area will document with real examples, what needs to be put into a Markdown file to get the desired HTML output in the <a href=\"https://www.thalesdocs.com\">Thales Documentation Portal</a></p>","modifiedHTML":"<p>This <span class=\"highlight-selection\" data-id=\"annotation-1739442074718\">area</span> will document with real examples, what needs to be put into a Markdown file to get the desired HTML output in the <a href=\"https://www.thalesdocs.com\">Thales Documentation Portal</a></p>","comment":"aaaa","resolved":false}],"emailIDs":[]}],"emailIDs":[]}
